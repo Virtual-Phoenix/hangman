@@ -1,5 +1,7 @@
 from random import shuffle
 
+def epmty():
+	pass
 
 class Card:
     suits = ["пикей",
